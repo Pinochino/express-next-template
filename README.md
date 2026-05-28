@@ -28,7 +28,7 @@ npm run dev
 Server chạy tại:
 
 ```txt
-http://localhost:8000
+http://localhost:9000
 ```
 
 ## Frontend
