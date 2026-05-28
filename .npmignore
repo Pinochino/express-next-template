@@ -1,0 +1,22 @@
+# Avoid npm falling back to .gitignore and accidentally publishing artifacts.
+
+node_modules
+**/node_modules
+
+# Next.js / build outputs
+**/.next
+**/out
+**/dist
+**/build
+
+# Tooling caches
+**/.turbo
+**/.vercel
+**/.cache
+
+# Logs
+**/*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+dist
+build
+.vercel
+.turbo
+.cache
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
